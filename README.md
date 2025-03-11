@@ -16,6 +16,8 @@ The objective is to analyze sales data, identify trends, and provide actionable 
 The target audience includes sales managers, business analysts, and senior executives who require data-driven insights to make informed decisions.
 
 ## Data Structure and Data Model:  
+![image](https://github.com/user-attachments/assets/3eb708f1-9d44-498a-9fb5-f352ea26f3a6)
+
 ## Data Sources:
 The data sources likely include sales transactions, customer data, product data, and financial records.  
 ### Data Cleaning:
@@ -35,16 +37,23 @@ The tools used for this analysis likely include Power BI for dashboard creation,
    - Identification of high-profit products can drive marketing strategies.  
    - Seasonal insights can help in planning promotions and staffing.
 
-## Insights Deep-Dive :  
+## Insights Deep-Dive : 
+![image](https://github.com/user-attachments/assets/ba3de33c-157b-49c6-a3c1-bbd4c6847185)
+
 ### Key Insights:  
 Sales performance varies significantly by region, with the North region outperforming others.  
 Top-performing products contribute to 60% of total sales.  
 Customer retention rates are highest in the West region.  
 
+![image](https://github.com/user-attachments/assets/2ab97fc9-8609-4bc1-b979-5166d02e61c1)
+
+
 ### Profit Analysis:  
 Profit margins are highest for electronic products, contributing to 45% of total profits.  
 Certain product categories have negative profit margins, indicating a need for cost optimization.  
 Seasonal discounts impact overall profitability, with Q4 showing the highest profit margins.  
+
+![image](https://github.com/user-attachments/assets/7f0126d3-f5c1-4e2d-a4ac-28a44cfd3d1d)
 
 ### Performance Insights:  
 Sales team performance varies, with the top 10% of sales representatives contributing to 40% of total sales.  
