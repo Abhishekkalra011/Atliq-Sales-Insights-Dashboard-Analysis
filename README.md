@@ -41,50 +41,50 @@ The tools used for this analysis likely include Power BI for dashboard creation,
 ![image](https://github.com/user-attachments/assets/ba3de33c-157b-49c6-a3c1-bbd4c6847185)
 
 ### Key Insights:  
-Sales performance varies significantly by region, with the North region outperforming others.  
-Top-performing products contribute to 60% of total sales.  
-Customer retention rates are highest in the West region.  
+- Sales performance varies significantly by region, with the North region outperforming others.  
+- Top-performing products contribute to 60% of total sales.  
+- Customer retention rates are highest in the West region.  
 
 ![image](https://github.com/user-attachments/assets/2ab97fc9-8609-4bc1-b979-5166d02e61c1)
 
 
 ### Profit Analysis:  
-Profit margins are highest for electronic products, contributing to 45% of total profits.  
-Certain product categories have negative profit margins, indicating a need for cost optimization.  
-Seasonal discounts impact overall profitability, with Q4 showing the highest profit margins.  
+- Profit margins are highest for electronic products, contributing to 45% of total profits.  
+- Certain product categories have negative profit margins, indicating a need for cost optimization.  
+- Seasonal discounts impact overall profitability, with Q4 showing the highest profit margins.  
 
 ![image](https://github.com/user-attachments/assets/7f0126d3-f5c1-4e2d-a4ac-28a44cfd3d1d)
 
 ### Performance Insights:  
-Sales team performance varies, with the top 10% of sales representatives contributing to 40% of total sales.  
-Customer satisfaction scores are highest for products with the fastest delivery times.  
-Operational inefficiencies in the supply chain are impacting overall performance.
+- Sales team performance varies, with the top 10% of sales representatives contributing to 40% of total sales.  
+- Customer satisfaction scores are highest for products with the fastest delivery times.  
+- Operational inefficiencies in the supply chain are impacting overall performance.
 
 ## Recommendations:  
 ### Actionable Recommendations:  
-Focus marketing efforts on high-profit products and regions.  
-Implement cost optimization strategies for low-margin product categories.  
-Enhance supply chain efficiency to improve delivery times and customer satisfaction.  
+- Focus marketing efforts on high-profit products and regions.  
+- Implement cost optimization strategies for low-margin product categories.  
+- Enhance supply chain efficiency to improve delivery times and customer satisfaction.  
 ### Business Impact:  
-Increased profitability through targeted marketing and cost optimization.  
-Improved customer satisfaction and retention through faster delivery times.  
-Enhanced operational efficiency, leading to reduced costs and increased sales.
+- Increased profitability through targeted marketing and cost optimization.  
+- Improved customer satisfaction and retention through faster delivery times.  
+- Enhanced operational efficiency, leading to reduced costs and increased sales.
 
 ## Skills Demonstrated:  
 ### Technical Skills:  
-Data visualization using Power BI.  
-Data cleaning and preparation using Excel and SQL.  
-Statistical analysis to identify trends and patterns.  
+- Data visualization using Power BI.  
+- Data cleaning and preparation using Excel and SQL.  
+- Statistical analysis to identify trends and patterns.  
 ### Soft Skills:  
-Effective communication of complex data insights to stakeholders.  
-Problem-solving to address business challenges.  
-Collaborate with cross-functional teams to implement recommendations.
+- Effective communication of complex data insights to stakeholders.  
+- Problem-solving to address business challenges.  
+- Collaborate with cross-functional teams to implement recommendations.
 
 ## Challenges and Learnings:  
 ### Challenges:  
-Data inconsistencies across different sources required extensive cleaning.  
-Identifying actionable insights from large datasets was time-consuming.  
+- Data inconsistencies across different sources required extensive cleaning.  
+- Identifying actionable insights from large datasets was time-consuming.  
 ### Learnings:  
-The importance of data quality in deriving accurate insights.  
-The value of visualization tools in communicating insights effectively.  
-The need for continuous monitoring and analysis to adapt to changing business conditions.  
+- The importance of data quality in deriving accurate insights.  
+- The value of visualization tools in communicating insights effectively.  
+- The need for continuous monitoring and analysis to adapt to changing business conditions.  
