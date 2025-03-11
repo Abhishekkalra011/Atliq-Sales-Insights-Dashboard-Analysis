@@ -1,7 +1,7 @@
 # Atliq-Sales-Insights-Dashboard-Analysis
 ## Title: Atliq Sales Insights Dashboard Analysis
 ## Interactive Webpage View
-
+https://atliq-sales-insights-das-dqlfr6s.gamma.site/
 ##  Interactive Report View
 https://app.powerbi.com/view?r=eyJrIjoiOGU5NGQ0M2EtNjc1MS00MDI4LWI2NmMtZDA5NTg5YjZiNjNkIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Description:  
